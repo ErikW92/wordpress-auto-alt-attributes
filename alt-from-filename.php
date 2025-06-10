@@ -2,8 +2,11 @@
 /*
 Plugin Name: Auto ALT from Filename
 Description: Automatically adds an ALT from the file name to all <img> elements without an ALT attribute.
-Version: 1.0
-Author: https://14agency.de
+Plugin URI: http://14agency.de
+Version: 1.0 Author: 14Agency GmbH // Erik Waldeck
+URI: http://14agency.de
+Min WP Version: 1.5 
+Max WP Version: 6.8
 */
 
 add_action('wp_footer', function () {
